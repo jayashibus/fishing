@@ -1,0 +1,9 @@
+// including variables and mixins
+@import "theme/variables";
+@import "theme/mixins";
+@import "theme/predefine";
+
+// Custom Scss
+
+@import "theme/home";
+@import "theme/product";
